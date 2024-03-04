@@ -23,3 +23,9 @@
 - 날짜를 클릭하면 하얗게 원을 만들어 선택했다는 것을 알려주기
 - 날짜를 선택하면 day todo list가 보이게 하기
 - 다른 날짜를 선택하면 day todo list가 초기화 되게하기
+
+<hr>
+
+### 이미지 예시
+<img width="511" alt="calendar_whatToDoThatDay2" src="https://github.com/KIMHUISEUNG/calendar-what-to-do-that-day/assets/83748337/7c90b05c-21d9-4730-bc09-d7a9fbaf7c61">
+
